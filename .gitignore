@@ -1,5 +1,8 @@
 # Maven
 target/
+.mvn/
+mvnw
+mvnw.cmd
 
 # Gradle
 .gradle
@@ -7,3 +10,6 @@ build/
 
 # Intellij IDEA
 .idea/
+
+# Project
+HELP.md
