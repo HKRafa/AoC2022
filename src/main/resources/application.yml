@@ -1,0 +1,10 @@
+input:
+  day-one: "day1/input"
+
+logging:
+  level:
+    org.springframework: INFO
+    com.hk: DEBUG
+
+server:
+  port: 8080
